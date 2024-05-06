@@ -1,0 +1,4 @@
+To remove uncommited files and folders:
+
+git reset --hard
+git clean --fdx
