@@ -2,3 +2,6 @@ To remove uncommited files and folders:
 
 git reset --hard
 git clean --fdx
+-d: Remove directories.
+-x: Delete files ignored by Git (according to .gitignore rules).
+-f: Force the removal.
